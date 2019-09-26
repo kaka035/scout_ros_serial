@@ -24,7 +24,7 @@
 
     ```
     $ cd ~/catkin_ws/src
-    $ git clone https://github.com/CosCJ/scout_ros_serial
+    $ git clone https://github.com/CosCJ/scout_ros_serial.git
     $ cd ..
     $ catkin_make
     ```
